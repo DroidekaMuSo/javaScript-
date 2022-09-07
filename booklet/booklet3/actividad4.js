@@ -7,3 +7,4 @@ while (entrada != "Voldemort") {
 }
 
 alert(ingresados);
+
