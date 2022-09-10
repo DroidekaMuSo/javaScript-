@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+.navbar {
+  font-family: "Raleway", sans-serif;
+  background-color: #f500d1;
+}
+
+.navbar div span {
+  color: white;
+  font-size: 200%;
+}
+
+footer {
+  background-color: black;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover{
+  text-decoration: underline;
+  color: #f500d1;
+}
