@@ -1,0 +1,14 @@
+.noteCard{
+    width: 18rem;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100vw;
+    background: gainsboro;
+}
+footer span{
+    color: red;
+}
